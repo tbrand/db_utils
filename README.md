@@ -1,4 +1,4 @@
-# hiden
+# db_utils
 
 TODO: Write a description here
 
@@ -8,14 +8,14 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 dependencies:
-  hiden:
-    github: [your-github-name]/hiden
+  db_utils:
+    github: [your-github-name]/db_utils
 ```
 
 ## Usage
 
 ```crystal
-require "hiden"
+require "db_utils"
 ```
 
 TODO: Write usage instructions here
@@ -26,7 +26,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/hiden/fork )
+1. Fork it ( https://github.com/tbrand/db_utils/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) taicsuzu - creator, maintainer
+- [tbrand](https://github.com/tbrand) Taichiro Suzuki - creator, maintainer
