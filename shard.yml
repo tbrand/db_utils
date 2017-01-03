@@ -5,7 +5,7 @@ authors:
   - taicsuzu <taicsuzu@yahoo-corp.jp>
 
 
-crystal: 0.20.1
+crystal: 0.20.3
 
 license: MIT
 
@@ -14,9 +14,10 @@ dependencies:
     github: crystal-lang/crystal-db
   kemal:
     github: kemalcr/kemal
-    version: 0.17.3
+    branch: master
   kemal-session:
     github: kemalcr/kemal-session
+    branch: master
   redis:
     github: stefanwille/crystal-redis
     branch: master
